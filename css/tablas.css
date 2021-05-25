@@ -1,3 +1,7 @@
+*
+ 
+
+
 table {
     font-size: 1.7em;
     border-collapse: collapse;
@@ -6,38 +10,48 @@ table {
 }
 
 th, td {
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 10px;
     text-align: center;
 
 
 }
 .vinos {
-    background:  rgb(175, 115, 175);
+    background:  rgb(128, 55, 128);
+    color: white;
     
 }
 .precio {
-    background:  rgb(175, 115, 175);
+    background:  rgb(28, 145, 53);
+    color: white;
 
 }
 .caja {
-    background:  rgb(175, 115, 175);
+    background:  rgb(77, 37, 221);
+    color: white;
 }
-.n1 {
-    background: rgba(205, 212, 205, 0.952);
+.Pedido {
+background:rgb(216, 11, 11);
+color: white;
+
+
 }
-.n2 {
-    background: rgba(205, 212, 205, 0.952);
+.Destino {
+    background: rgb(250, 215, 15);
+    color: white;
+
 }
-.n3 {
-    background: rgba(205, 212, 205, 0.952);
+.Cantidad {
+    background: rgb(226, 7, 178);
+    color: white;
+    
 }
-.n4 {
-    background: rgba(205, 212, 205, 0.952);
+.N {
+    background: darkcyan;
+    color: white;
 }
-.n5 {
-    background: rgba(205, 212, 205, 0.952);
+.n1 ,.n2, .n3,.n4,.n5,.n6
+{
+    background: rgba(227, 231, 227, 0.952);
 }
-.n6 {
-    background: rgba(205, 212, 205, 0.952);
-}
+
