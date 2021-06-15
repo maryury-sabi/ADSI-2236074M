@@ -1,4 +1,8 @@
-    ul{
+* {
+    margin: 0;
+    padding: 0;
+}
+ul{
         font-size: 2em;
         text-align: right;
         background:  rgb(87, 182, 177);
